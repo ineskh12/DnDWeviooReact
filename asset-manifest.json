@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DnDWeviooReact/static/css/main.a9e8cb81.chunk.css",
+    "main.js": "/DnDWeviooReact/static/js/main.821b33ee.chunk.js",
+    "main.js.map": "/DnDWeviooReact/static/js/main.821b33ee.chunk.js.map",
+    "runtime-main.js": "/DnDWeviooReact/static/js/runtime-main.de18ff7f.js",
+    "runtime-main.js.map": "/DnDWeviooReact/static/js/runtime-main.de18ff7f.js.map",
+    "static/js/2.e29d998e.chunk.js": "/DnDWeviooReact/static/js/2.e29d998e.chunk.js",
+    "static/js/2.e29d998e.chunk.js.map": "/DnDWeviooReact/static/js/2.e29d998e.chunk.js.map",
+    "index.html": "/DnDWeviooReact/index.html",
+    "static/css/main.a9e8cb81.chunk.css.map": "/DnDWeviooReact/static/css/main.a9e8cb81.chunk.css.map",
+    "static/js/2.e29d998e.chunk.js.LICENSE.txt": "/DnDWeviooReact/static/js/2.e29d998e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de18ff7f.js",
+    "static/js/2.e29d998e.chunk.js",
+    "static/css/main.a9e8cb81.chunk.css",
+    "static/js/main.821b33ee.chunk.js"
+  ]
+}
