@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/DnDWeviooReact/static/css/main.853f1c98.chunk.css",
-    "main.js": "/DnDWeviooReact/static/js/main.4722f4ae.chunk.js",
-    "main.js.map": "/DnDWeviooReact/static/js/main.4722f4ae.chunk.js.map",
+    "main.js": "/DnDWeviooReact/static/js/main.a201ea88.chunk.js",
+    "main.js.map": "/DnDWeviooReact/static/js/main.a201ea88.chunk.js.map",
     "runtime-main.js": "/DnDWeviooReact/static/js/runtime-main.de18ff7f.js",
     "runtime-main.js.map": "/DnDWeviooReact/static/js/runtime-main.de18ff7f.js.map",
     "static/css/2.979034dc.chunk.css": "/DnDWeviooReact/static/css/2.979034dc.chunk.css",
-    "static/js/2.54b06afb.chunk.js": "/DnDWeviooReact/static/js/2.54b06afb.chunk.js",
-    "static/js/2.54b06afb.chunk.js.map": "/DnDWeviooReact/static/js/2.54b06afb.chunk.js.map",
+    "static/js/2.5ce65f02.chunk.js": "/DnDWeviooReact/static/js/2.5ce65f02.chunk.js",
+    "static/js/2.5ce65f02.chunk.js.map": "/DnDWeviooReact/static/js/2.5ce65f02.chunk.js.map",
     "index.html": "/DnDWeviooReact/index.html",
     "static/css/2.979034dc.chunk.css.map": "/DnDWeviooReact/static/css/2.979034dc.chunk.css.map",
     "static/css/main.853f1c98.chunk.css.map": "/DnDWeviooReact/static/css/main.853f1c98.chunk.css.map",
-    "static/js/2.54b06afb.chunk.js.LICENSE.txt": "/DnDWeviooReact/static/js/2.54b06afb.chunk.js.LICENSE.txt"
+    "static/js/2.5ce65f02.chunk.js.LICENSE.txt": "/DnDWeviooReact/static/js/2.5ce65f02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de18ff7f.js",
     "static/css/2.979034dc.chunk.css",
-    "static/js/2.54b06afb.chunk.js",
+    "static/js/2.5ce65f02.chunk.js",
     "static/css/main.853f1c98.chunk.css",
-    "static/js/main.4722f4ae.chunk.js"
+    "static/js/main.a201ea88.chunk.js"
   ]
 }
